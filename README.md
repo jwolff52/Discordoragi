@@ -1,4 +1,6 @@
-# Discordoragi
+# This project has been taken over by [dashwav](https://github.com/dashwav/Discordoragi), he has pretty much made everything better haha.
+
+## Discordoragi
 Discordoragi is a Discord bot based on [Roboragi](http://github.com/Nihilate/Roboragi) which creates anime and manga links from MAL, Hummingbird, Anilist, MangaUpdates and Anime-Planet when requested.
 
 ## Installation
